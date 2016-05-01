@@ -1,0 +1,282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"repr",
+				"reproCondition"
+			],
+			[
+				"pattern",
+				"pattern"
+			],
+			[
+				"set",
+				"setCell"
+			],
+			[
+				"cell",
+				"cellHeight"
+			],
+			[
+				"request",
+				"requestify"
+			],
+			[
+				"json",
+				"jsonParser"
+			],
+			[
+				"c",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Tyler/Desktop/Projects/Game of Life",
+		"/C/Users/Tyler/Desktop/Projects/Game of Life/Scripts"
+	],
+	"file_history":
+	[
+		"/C/Code/Actionscript/Both/Matryoshka/Game/php/playerProxy/playerProxy.php",
+		"/C/Users/Tyler/Desktop/Projects/Game of Life/index.html",
+		"/C/Users/Tyler/Desktop/Projects/Game of Life/Scripts/main.js",
+		"/C/Users/Tyler/Desktop/Projects/Website/public/index.html",
+		"/C/Users/Tyler/Desktop/Projects/Website/public/pages/shorten.html",
+		"/C/Code/Actionscript/Both/Matryoshka/Game/common/plume/templates/ThreeWinStars.pui",
+		"/C/Code/Actionscript/Both/Matryoshka/Game/php/environment.php",
+		"/C/Code/Operations/FogBugz Reminder/FogbugzReminder.php",
+		"/C/Users/Tyler/Desktop/Projects/Game of Life/js/main.js",
+		"/C/Users/Tyler/Desktop/Projects/Website/index.js",
+		"/C/Users/Tyler/Desktop/Projects/Website/Public/style.css",
+		"/C/Users/Tyler/Desktop/Projects/Website/Public/pages/shorten.html",
+		"/C/Users/Tyler/Desktop/Projects/Website/Public/scripts/main.js",
+		"/C/Users/Tyler/Desktop/Projects/Node.js/First/index.js",
+		"/C/Users/Tyler/Desktop/Projects/Website/Public/pages/fileNotFound.html",
+		"/C/Users/Tyler/Desktop/Projects/Website/Public/fileNotFound.html",
+		"/C/Users/Tyler/Desktop/startbootstrap-simple-sidebar-1.0.4/index.html",
+		"/C/Users/Tyler/Desktop/startbootstrap-simple-sidebar-1.0.4/about-me.html",
+		"/C/Users/Tyler/Desktop/Projects/Website/scripts/animation.js",
+		"/C/Code/Actionscript/Both/Matryoshka/Game/web/bin/index.html",
+		"/C/Users/Tyler/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Tyler/Desktop/Clumsy/clumsy.exe",
+		"/C/Users/Tyler/Desktop/Projects/Unseen/Scripts/levels.js",
+		"/C/Users/Tyler/Desktop/Projects/Unseen/index.html",
+		"/C/Users/Tyler Zhang/Desktop/Projects/Unseen/main.js",
+		"/C/Users/Tyler Zhang/Desktop/Projects/Unseen/Nginx/Unseen.winconf",
+		"/C/Users/Tyler Zhang/Desktop/Projects/Unseen/index.html",
+		"/C/Program Files (x86)/Nginx/conf/Unseen.winconf"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"20",
+			"maxmap",
+			"UpdateFacebookPlayer",
+			"data",
+			"random",
+			"ctx",
+			"simulation",
+			"reproCondition",
+			"liveCondition",
+			"neighbor",
+			"state",
+			"bd",
+			"brush",
+			"x",
+			"reque",
+			"y",
+			"x",
+			"cellHeig",
+			"cellWidth",
+			"oardData",
+			"{\n",
+			"boardData",
+			"Game",
+			"){",
+			"this",
+			"\"><",
+			"set",
+			"console.log",
+			"\")));",
+			"j(r(",
+			"j",
+			"v",
+			"res",
+			"\")",
+			")",
+			"\")\n",
+			"\");\n",
+			"return",
+			"params",
+			".",
+			"\">\n",
+			"request",
+			"image",
+			"back",
+			"Scripts",
+			"();",
+			"1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Tyler\\Desktop\\Projects\\Game of Life"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Tyler\\Desktop\\Projects\\Game of Life\\Game Of Life.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
